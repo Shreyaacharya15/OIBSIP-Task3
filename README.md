@@ -30,11 +30,7 @@ pip install requests pillow
 
 Create an account at https://openweathermap.org
 
-Get your API key
-
-Replace in code:
-
-self.api_key = "YOUR_API_KEY_HERE"
+ And Get your API key to put in the code: (self.api_key )
 
 ## ▶️ Run the App
 python weather.py
